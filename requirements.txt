@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+hf_xet
+transformers
+torch
+PyPDF2
